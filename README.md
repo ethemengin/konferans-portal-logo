@@ -1,0 +1,1 @@
+# konferans-portal-logo
